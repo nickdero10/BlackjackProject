@@ -43,3 +43,25 @@ python blackjack.py
  - Dealer stands on 17 and above
  - Players may split once
  - Double allowed only as first move
+
+## Example Output
+Dealer shows:
+┌─────────┐  ┌─────────┐
+│9        │  │?        │
+│         │  │         │
+│    ♥    │  │    ?    │
+│         │  │         │
+│        9│  │        ?│
+└─────────┘  └─────────┘
+
+Your hand:
+┌─────────┐  ┌─────────┐
+│K        │  │A        │
+│         │  │         │
+│    ♠    │  │    ♦    │
+│         │  │         │
+│        K│  │        A│
+└─────────┘  └─────────┘
+
+Blackjack! You Win!
+Balance: $125
