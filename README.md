@@ -46,7 +46,7 @@ python blackjack.py
 
 ## Example Output
 Dealer shows:
-┌─────────┐  ┌─────────┐
+┌─────────┐  ┌─────────┐ \n
 │9        │  │?        │
 │         │  │         │
 │    ♥    │  │    ?    │
