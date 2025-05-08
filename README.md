@@ -1,10 +1,10 @@
-# 🃏 Python Blackjack
+# Python Blackjack
 
 A console-based Blackjack game developed in Python for CPE 551 Final Project.  
 Created by **Nicholas DeRobertis**  
 *I Pledge my Honor that I have Abided by the Stevens Honor System*
 
-## 🎮 Features
+## Features
 
 - Full game of Blackjack with:
   - ASCII-rendered cards
@@ -17,7 +17,7 @@ Created by **Nicholas DeRobertis**
 - Input validation and error handling
 - Persistent balance tracking through game rounds
 
-## 🛠️ How to Run
+## How to Run
 
 1. Make sure you have Python 3 installed.
 2. Clone or download this repository.
