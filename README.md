@@ -26,3 +26,20 @@ Created by **Nicholas DeRobertis**
 
 ```bash
 python blackjack.py
+```
+
+## Classes Overview
+ - Card: Represents a single playing card with ASCII art.
+ - CardBack: Renders the back of a card (used for dealer's hidden card).
+ - Deck: Creates and shuffles a multi-deck stack of cards.
+ - Hand: Manages a player's or dealer's hand and calculates hand value.
+ - Player: Represents a player in the game.
+ - Dealer: Inherits from Player, includes hit logic specific to dealer.
+ - Game: Manages game flow, betting, splitting, doubling, insurance, and rounds.
+
+## Blackjack Rules
+ - Blackjack pays 3:2
+ - Insurance pays 2:1 if dealer has blackjack
+ - Dealer stands on 17 and above
+ - Players may split once
+ - Double allowed only as first move
